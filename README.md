@@ -10,7 +10,8 @@ Total Cost: $45
 
 Making this guitar much cheaper than actual guitars.
 
-CAD Model:<img width="739" height="435" alt="Isometric" src="https://github.com/user-attachments/assets/47b43a89-f782-4143-ba04-c575ab53713a" />
+CAD Model:
+<img width="739" height="435" alt="Isometric" src="https://github.com/user-attachments/assets/47b43a89-f782-4143-ba04-c575ab53713a" />
 
 On this accessibility note, it allows auditorily impaired musicians perform online guitar lessons by allowing them a live representation of the notes the student plays.
 
