@@ -16,6 +16,10 @@ CAD Model:
 
 On this accessibility note, it allows auditorily impaired musicians perform online guitar lessons by allowing them a live representation of the notes the student plays.
 
-Code Flowchart: <img width="1874" height="666" alt="FINAL SLDP CODE FLOWCHART" src="https://github.com/user-attachments/assets/b7116e06-ac55-4d9b-8ebb-1e53a68d55c4" />
+Code Flowchart: 
 
-Image of working prototype: <img width="689" height="363" alt="Screenshot 2026-07-24 at 11 49 17 PM" src="https://github.com/user-attachments/assets/b8a8776a-ae88-49ed-a612-a646d3828df2" />
+<img width="1874" height="666" alt="FINAL SLDP CODE FLOWCHART" src="https://github.com/user-attachments/assets/b7116e06-ac55-4d9b-8ebb-1e53a68d55c4" />
+
+Image of working prototype: 
+
+<img width="689" height="363" alt="Screenshot 2026-07-24 at 11 49 17 PM" src="https://github.com/user-attachments/assets/b8a8776a-ae88-49ed-a612-a646d3828df2" />
