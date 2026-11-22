@@ -23,3 +23,7 @@ Code Flowchart:
 Image of working prototype: 
 
 <img width="689" height="363" alt="Screenshot 2026-07-24 at 11 49 17 PM" src="https://github.com/user-attachments/assets/b8a8776a-ae88-49ed-a612-a646d3828df2" />
+
+Velostat Resistance Profile:
+
+<img width="474" height="294" alt="velostat" src="https://github.com/user-attachments/assets/ca52fb0e-4b2f-4647-835f-e746015f0210" />
